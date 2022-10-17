@@ -1,6 +1,6 @@
 [Правильная, круглая, скобочная](https://contest.yandex.ru/contest/29075/problems/D/)
 
-```
+```Python
 OPEN = '('
 CLOSE = ')'
 sequence = input()
